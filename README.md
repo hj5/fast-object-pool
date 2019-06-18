@@ -2,7 +2,7 @@
 
 fast-object-pool
 ================
-FOP, a lightweight partitioned object pool, you can use it to pool expensive and non-thread-safe objects like thrift clients etc.
+有状态对象池实现
 
 Why yet another object pool
 --------------
